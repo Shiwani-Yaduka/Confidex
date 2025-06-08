@@ -18,7 +18,9 @@ st.title("🎤 Confident Speaking Practice with Motivation Boost")
 
 prompts = [
    
-    "Give introduction of your self"
+    "Give introduction of your self",
+   "Tell something about yor chilhood",
+   "My future Goals"
 ]
 
 if st.button("🎲 Get Speaking Prompt"):
