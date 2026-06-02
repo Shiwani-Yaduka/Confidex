@@ -22,4 +22,4 @@ Voice pitch and variation
 
 🎲 Random speaking prompts to practice
 
-THANK YOU!
+THANKS!
